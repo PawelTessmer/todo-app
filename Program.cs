@@ -42,10 +42,10 @@ while (true)
     Console.WriteLine("\n1. Add task");
     Console.WriteLine("2. Mark as done");
     Console.WriteLine("3. Delete task");
-    Console.WriteLine("4. Exit");
-    Console.WriteLine("5. Show completed");
-    Console.WriteLine("6. Show pending");
-    Console.WriteLine("7. Show all");
+    Console.WriteLine("4. Show completed");
+    Console.WriteLine("5. Show pending");
+    Console.WriteLine("6. Show all");
+    Console.WriteLine("7. Exit");
 
     string choice = Console.ReadLine() ?? "";
 
@@ -64,19 +64,19 @@ while (true)
             break;
 
         case "4":
-            return;
-
-        case "5":
             filter = "completed";
             break;
 
-        case "6":
+        case "5":
             filter = "pending";
             break;
 
-        case "7":
+        case "6":
             filter = "all";
             break;
+
+        case "7":
+            return;
 
         default:
             WriteColor("Invalid input", ConsoleColor.Red);

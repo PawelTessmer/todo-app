@@ -12,3 +12,4 @@ C:\C#\Praktyki\TodoApp\TodoApp\obj\Debug\net10.0\refint\TodoApp.dll
 C:\C#\Praktyki\TodoApp\TodoApp\obj\Debug\net10.0\TodoApp.pdb
 C:\C#\Praktyki\TodoApp\TodoApp\obj\Debug\net10.0\TodoApp.genruntimeconfig.cache
 C:\C#\Praktyki\TodoApp\TodoApp\obj\Debug\net10.0\ref\TodoApp.dll
+C:\C#\Praktyki\TodoApp\TodoApp\obj\Debug\net10.0\TodoApp.sourcelink.json

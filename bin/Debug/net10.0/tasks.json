@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "Title": "Task 1",
+    "IsDone": false,
+    "CreatedAt": "2026-04-29T00:29:19.9543992+02:00"
+  },
+  {
+    "Title": "Task 2",
+    "IsDone": true,
+    "CreatedAt": "2026-04-29T00:29:28.7007629+02:00"
+  },
+  {
+    "Title": "Task 3",
+    "IsDone": false,
+    "CreatedAt": "2026-04-29T00:29:36.3475927+02:00"
+  }
+]
