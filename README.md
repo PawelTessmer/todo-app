@@ -57,7 +57,7 @@ Struktura projektu
 
 Screenshot
 
-![Todo App](screenshot.png)
+![Todo App](Screenshot.png)
 
 ----------------
 
